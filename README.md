@@ -9,6 +9,16 @@
 - 📈 Especialista em transformar dados complexos em Dashboards estratégicos com **Power BI**.
 - ⚡ +240 commits realizados nos últimos meses, focando em código limpo e escalável.
 
+### 📈 Minha Curva de Evolução (Foco em Performance)
+Em menos de 90 dias, saí da base acadêmica para a construção de infraestruturas de dados em nuvem. Meu foco é a autonomia e o domínio agressivo de novas stacks.
+
+- **Fev/2026:** Domínio de **SQL** e Análises Exploratórias.
+- **Mar/2026:** Implementação do Projeto Churn (primeiro pipeline em Cloud).
+- **Abr/2026:** **Unified Pipeline Cloud** + Modelagem **Star Schema**.
+
+> *"Minha principal métrica é o tempo de entrega: domino e implemento novas tecnologias do zero em questão de dias."*
+
+
 ### 🤖 Minhas Stacks & Ferramentas
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

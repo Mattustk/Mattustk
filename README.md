@@ -36,7 +36,4 @@
   <a href="https://www.linkedin.com/in/guilherme-coradini-7607883ab/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn">
   </a>
-  <a href="mailto:guilhermematt16@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email">
-  </a>
-</div>
+

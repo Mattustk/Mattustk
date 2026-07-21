@@ -1,8 +1,5 @@
 # 👨‍💻 Guilherme Coradini | Back-end Software Engineer
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Buscando%20Est%C3%A1gio-green?style=for-the-badge" alt="Status">
-</div>
 
 ---
 
@@ -17,7 +14,6 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="35" alt="Python">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="35" alt="Java">
   
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" height="35" alt="FastAPI">
   
